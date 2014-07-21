@@ -8,10 +8,10 @@
  by Role ,per rol
  can not be made.,kan niet worden gemaakt.
  can not be marked as a ledger as it has existing child,kan niet worden gemarkeerd als een grootboek als het heeft bestaande kind
- cannot be 0,mag niet 0
- cannot be deleted.,kunnen niet worden verwijderd.
+ cannot be 0,mag niet 0 zijn
+ cannot be deleted.,kan niet worden verwijderd.
  does not belong to the company,behoort niet tot de onderneming
- has already been submitted.,al is ingediend.
+ has already been submitted.,is al ingediend.
  has been freezed. ,is bevroren.
  has been freezed. \				Only Accounts Manager can do transaction against this account,is bevroren. \ Accounts Manager kan doen transactie tegen deze account
 " is less than equals to zero in the system, \						valuation rate is mandatory for this item","is minder dan gelijk aan nul in het systeem, \ taxatie tarief is verplicht voor dit item"
@@ -20,11 +20,11 @@
  is not a ledger,is niet een grootboek
  is not active,niet actief
  is not set,is niet ingesteld
- is now the default Fiscal Year. \			Please refresh your browser for the change to take effect.,is nu de standaard boekjaar. \ Vernieuw uw browser om de wijziging door te voeren.
- is present in one or many Active BOMs,aanwezig is in een of vele Actieve stuklijsten
- not active or does not exists in the system,niet actief of niet bestaat in het systeem
+ is now the default Fiscal Year. \			Please refresh your browser for the change to take effect.,is nu het standaard boekjaar. \ Vernieuw uw browser om de wijziging door te voeren.
+ is present in one or many Active BOMs,is aanwezig in één of meer actieve stuklijsten
+ not active or does not exists in the system,niet actief of niet bestaand in het systeem
  not submitted,niet ingediend
- or the BOM is cancelled or inactive,of de BOM wordt geannuleerd of inactief
+ or the BOM is cancelled or inactive,of de stuklijst wordt geannuleerd of inactief
  should be 'Yes'. As Item: ,zou moeten zijn &#39;Yes&#39;. Als Item:
  should be same as that in ,dezelfde als die moeten worden in
  was on leave on ,was op verlof op
@@ -39,9 +39,9 @@
 % Completed,% Voltooid
 % Installed,% Geïnstalleerd
 % Received,% Ontvangen
-% of materials billed against this Purchase Order.,% Van de materialen in rekening gebracht tegen deze Purchase Order.
+% of materials billed against this Purchase Order.,% van de materialen in rekening gebracht tegen deze aankooporder.
 % of materials billed against this Sales Order,% Van de materialen in rekening gebracht tegen deze verkooporder
-% of materials delivered against this Delivery Note,% Van de geleverde materialen tegen deze Delivery Note
+% of materials delivered against this Delivery Note,% Van de geleverde materialen tegen deze levernota
 % of materials delivered against this Sales Order,% Van de geleverde materialen tegen deze verkooporder
 % of materials ordered against this Material Request,% Van de bestelde materialen tegen dit materiaal aanvragen
 % of materials received against this Purchase Order,% Van de materialen ontvangen tegen deze Kooporder
@@ -98,29 +98,29 @@ Abbr,Abbr
 About,Over
 About Us Settings,Over Ons Instellingen
 About Us Team Member,Over ons Team Member
-Above Value,Boven Value
+Above Value,Boven waarde
 Absent,Afwezig
 Acceptance Criteria,Acceptatiecriteria
 Accepted,Aanvaard
-Accepted Quantity,Geaccepteerde Aantal
-Accepted Warehouse,Geaccepteerde Warehouse
+Accepted Quantity,Geaccepteerd Aantal
+Accepted Warehouse,Geaccepteerd Magazijn
 Account,Rekening
-Account Balance,Account Balance
-Account Details,Account Details
+Account Balance,rekeniLeidenng totaal
+Account Details,rekening Details
 Account Head,Account Hoofd
 Account Id,Account Id
 Account Name,Accountnaam
-Account Type,Account Type
+Account Type,Rekening Type
 Account for this ,Account voor deze
 Accounting,Rekening
-Accounting Year.,Accounting Jaar.
+Accounting Year.,Boekhoud Jaar.
 "Accounting entry frozen up to this date, nobody can do / modify entry except role specified below.","Boekhoudkundige afschrijving bevroren tot deze datum, kan niemand / te wijzigen toegang behalve rol hieronder aangegeven."
-Accounting journal entries.,Accounting journaalposten.
-Accounts,Accounts
+Accounting journal entries.,journaalposten.
+Accounts,Rekeningen
 Accounts Frozen Upto,Accounts Frozen Tot
-Accounts Payable,Accounts Payable
+Accounts Payable,Crediteuren
 Accounts Receivable,Debiteuren
-Accounts Settings,Accounts Settings
+Accounts Settings,rekening instellingen
 Action,Actie
 Active,Actief
 Active: Will extract emails from ,Actief: Zal ​​e-mails uittreksel uit
@@ -128,7 +128,7 @@ Activity,Activiteit
 Activity Log,Activiteitenlogboek
 Activity Type,Activiteit Type
 Actual,Daadwerkelijk
-Actual Budget,Werkelijk Begroting
+Actual Budget,Werkelijke Begroting
 Actual Completion Date,Werkelijke Voltooiingsdatum
 Actual Date,Werkelijke Datum
 Actual End Date,Werkelijke Einddatum
@@ -141,8 +141,8 @@ Actual Quantity,Werkelijke hoeveelheid
 Actual Start Date,Werkelijke Startdatum
 Add,Toevoegen
 Add / Edit Taxes and Charges,Toevoegen / bewerken en-heffingen
-Add A New Rule,Voeg een nieuwe regel
-Add A Property,Voeg een woning
+Add A New Rule,Voeg een nieuwe regel toe
+Add A Property,Voeg een eigenschp toe
 Add Attachments,Bijlagen toevoegen
 Add Bookmark,Voeg bladwijzer toe
 Add CSS,Voeg CSS
@@ -150,12 +150,12 @@ Add Column,Kolom toevoegen
 Add Comment,Reactie toevoegen
 Add Google Analytics ID: eg. UA-89XXX57-1. Please search help on Google Analytics for more information.,Voeg Google Analytics ID: bv. UA-89XXX57-1. Zoek dan hulp bij Google Analytics voor meer informatie.
 Add Message,Bericht toevoegen
-Add New Permission Rule,Toevoegen nieuwe Toestemming regel
-Add Reply,Voeg antwoord
+Add New Permission Rule,Toevoegen nieuwe Toestemmingsregel
+Add Reply,Voeg antwoord toe
 Add Terms and Conditions for the Material Request. You can also prepare a Terms and Conditions Master and use the Template,Voeg Voorwaarden voor de Material Request. U kunt ook de voorbereiding van een Algemene Voorwaarden meester en gebruik de Template
 Add Terms and Conditions for the Purchase Receipt. You can also prepare a Terms and Conditions Master and use the Template.,Voeg Algemene voorwaarden voor het bewijs van aankoop. U kunt ook bereiden een Algemene voorwaarden Master en gebruik maken van de sjabloon.
 "Add Terms and Conditions for the Quotation like Payment Terms, Validity of Offer etc. You can also prepare a Terms and Conditions Master and use the Template","Voeg Algemene Voorwaarden voor de offerte als Betalingscondities, Geldigheid van de aanbieding, enz. U kunt ook de voorbereiding van een Algemene voorwaarden Master en gebruik maken van de sjabloon"
-Add Total Row,Voeg Totaal Row
+Add Total Row,Voeg Totaal toe
 Add a banner to the site. (small banners are usually good),Plaats ook een banner op de site. (Kleine banners zijn meestal goed)
 Add attachment,Bijlage toevoegen
 Add code as &lt;script&gt;,Voeg code als &lt;script&gt;
@@ -170,7 +170,7 @@ Additional Info,Extra informatie
 Address,Adres
 Address & Contact,Adres &amp; Contact
 Address & Contacts,Adres &amp; Contact
-Address Desc,Adres Desc
+Address Desc,Adres omschrijving
 Address Details,Adresgegevens
 Address HTML,Adres HTML
 Address Line 1,Adres Lijn 1
@@ -181,7 +181,7 @@ Address and other legal information you may want to put in the footer.,Adres-en 
 Address to be displayed on the Contact Page,Adres moet worden weergegeven op de Contact Pagina
 Adds a custom field to a DocType,Voegt een aangepast veld aan een DocType
 Adds a custom script (client or server) to a DocType,Hiermee wordt een aangepast script (client of server) om een ​​DocType
-Advance Amount,Advance Bedrag
+Advance A
 Advance amount,Advance hoeveelheid
 Advanced Scripting,Geavanceerde Scripting
 Advanced Settings,Geavanceerde instellingen
@@ -208,15 +208,15 @@ Aging Date,Aging Datum
 All Addresses.,Alle adressen.
 All Contact,Alle Contact
 All Contacts.,Alle contactpersonen.
-All Customer Contact,Alle Customer Contact
-All Day,All Day
+All Customer Contact,Alle klanten
+All Day,Hele dag
 All Employee (Active),Alle medewerkers (Actief)
-All Lead (Open),Alle Lood (Open)
+All Lead (Open),Alle prospecten (Open)
 All Products or Services.,Alle producten of diensten.
-All Sales Partner Contact,Alle Sales Partner Contact
-All Sales Person,Alle Sales Person
+All Sales Partner Contact,Alle verkoopspartners
+All Sales Person,Alle verkopers
 All Sales Transactions can be tagged against multiple **Sales Persons** so that you can set and monitor targets.,"All Sales Transacties kunnen worden gelabeld tegen meerdere ** Sales Personen **, zodat u kunt instellen en bewaken doelstellingen."
-All Supplier Contact,Alle Leverancier Contact
+All Supplier Contact,Alle Leveranciers
 "All account columns should be after \							standard columns and on the right.							If you entered it properly, next probable reason \							could be wrong account name.							Please rectify it in the file and try again.","Alle rekening kolommen na \ standaard kolommen en aan de rechterkant. Als je het goed ingevoerd, zou de volgende waarschijnlijke reden \ verkeerde account naam zijn. Gelieve te corrigeren in het bestand en probeer het opnieuw."
 "All export related fields like currency, conversion rate, export total, export grand total etc are available in <br>Delivery Note, POS, Quotation, Sales Invoice, Sales Order etc.","Alle export gerelateerde gebieden zoals valuta, wisselkoers, export totaal, uitvoer totaal, enz. zijn verkrijgbaar in <br> Levering Let op, POS, Offerte, Sales Invoice, Sales Order enz."
 "All import related fields like currency, conversion rate, import total, import grand total etc are available in <br>Purchase Receipt, Supplier Quotation, Purchase Invoice, Purchase Order etc.","Alle import aanverwante gebieden zoals valuta, wisselkoers, totale import, import totaal enz. zijn beschikbaar in <br> Aankoopbewijs, Leverancier Offerte, aankoopfactuur, Purchase Order enz."
@@ -224,29 +224,29 @@ All items have already been transferred \				for this Production Order.,Alle ite
 "All possible Workflow States and roles of the workflow. <br>Docstatus Options: 0 is""Saved"", 1 is ""Submitted"" and 2 is ""Cancelled""","Alle mogelijke Workflow Staten en rollen van de workflow. <br> Docstatus Opties: 0 is &quot;Saved&quot;, is 1 &quot;Submitted&quot; en 2 &quot;Cancelled&quot;"
 All posts by,Alle berichten van
 Allocate,Toewijzen
-Allocate leaves for the year.,Wijs bladeren voor het jaar.
+Allocate leaves for the year.,Wijs toe voor het jaar.
 Allocated Amount,Toegewezen bedrag
 Allocated Budget,Toegekende budget
 Allocated amount,Toegewezen bedrag
-Allow Attach,Laat Bevestig
-Allow Bill of Materials,Laat Bill of Materials
-Allow Dropbox Access,Laat Dropbox Access
-Allow Editing of Frozen Accounts For,Laat bewerken van bevroren rekeningen voor
-Allow Google Drive Access,Laat Google Drive Access
-Allow Import,Laat importeren
-Allow Import via Data Import Tool,Laat importeren via Gegevens importeren Tool
-Allow Negative Balance,Laat negatief saldo
-Allow Negative Stock,Laat Negatieve voorraad
-Allow Production Order,Laat Productieorder
-Allow Rename,Laat hernoemen
-Allow Samples,Laat Monsters
+Allow Attach,Laat bijlage toe
+Allow Bill of Materials,Laat materiaallijst to
+Allow Dropbox Access,Laat Dropbox Access toe
+Allow Editing of Frozen Accounts For,Laat bewerken van bevroren klantenrekeningen toe
+Allow Google Drive Access,Laat Google Drive Access toe
+Allow Import,Laat importeren toe
+Allow Import via Data Import Tool,Laat importeren via Gegevens importeren Tool toe
+Allow Negative Balance,Laat negatief saldo toe
+Allow Negative Stock,Laat Negatieve voorraad toe
+Allow Production Order,Laat Productieorder toe
+Allow Rename,Laat hernoemen toe
+Allow Samples,Laat Monsters toe
 Allow User,Door gebruiker toestaan
 Allow Users,Gebruikers toestaan
-Allow on Submit,Laat op Submit
-Allow the following users to approve Leave Applications for block days.,Laat de volgende gebruikers te keuren Verlof Aanvragen voor blok dagen.
+Allow on Submit,Laat op Submit toe
+Allow the following users to approve Leave Applications for block days.,Laat de volgende gebruikers verlof aanvragen goed te keurenvoor blok dagen.
 Allow user to edit Price List Rate in transactions,Zodat de gebruiker te bewerken prijslijst Rate bij transacties
 Allow user to login only after this hour (0-24),Gebruiker mag alleen inloggen na dit uur (0-24)
-Allow user to login only before this hour (0-24),Gebruiker mag alleen inloggen voordat dit uur (0-24)
+Allow user to login only before this hour (0-24),Gebruiker mag alleen inloggen voor dit uur (0-24)
 Allowance Percent,Toelage Procent
 Allowed,Toegestaan
 Already Registered,Reeds geregistreerd
@@ -267,14 +267,14 @@ Applicable To (Employee),Van toepassing zijn op (Werknemer)
 Applicable To (Role),Van toepassing zijn op (Rol)
 Applicable To (User),Van toepassing zijn op (Gebruiker)
 Applicant Name,Aanvrager Naam
-Applicant for a Job,Aanvrager van een baan
-Applicant for a Job.,Kandidaat voor een baan.
+Applicant for a Job,sollicitant
+Applicant for a Job.,sollicitant
 Applications for leave.,Aanvragen voor verlof.
 Applies to Company,Geldt voor Bedrijf
-Apply / Approve Leaves,Toepassen / goedkeuren Leaves
-Apply Shipping Rule,Solliciteer Scheepvaart Rule
+Apply / Approve Leaves,Toepassen / goedkeuren afwezigheden
+Apply Shipping Rule,pas verzendingsregel toe
 Apply Taxes and Charges Master,Toepassing en-heffingen Master
-Appraisal,Taxatie
+Appraisal,beoordeling
 Appraisal Goal,Beoordeling Doel
 Appraisal Goals,Beoordeling Doelen
 Appraisal Template,Beoordeling Sjabloon
@@ -297,65 +297,65 @@ Assign To,Toewijzen aan
 Assigned By,Toegekend door
 Assignment,Toewijzing
 Assignments,Opdrachten
-Associate a DocType to the Print Format,Associeer een DOCTYPE aan de Print Format
-Atleast one warehouse is mandatory,Tenminste een magazijn is verplicht
-Attach,Hechten
-Attach Document Print,Bevestig Document Print
+Associate a DocType to the Print Format,Associeer een DOCTYPE aan het afdrukformaat
+Atleast one warehouse is mandatory,Tenminste één magazijn is verplicht
+Attach,bijvoegen
+Attach Document Print,Bevestig Documentafdruk
 Attached To DocType,Bijlage Aan DocType
-Attached To Name,Gehecht Aan Naam
-Attachment,Gehechtheid
-Attachments,Toebehoren
-Attempted to Contact,Geprobeerd om contact
+Attached To Name,bijgevoegd Aan Naam
+Attachment,bijlage
+Attachments,bijlagen
+Attempted to Contact,poging tot contact
 Attendance,Opkomst
-Attendance Date,Aanwezigheid Datum
+Attendance Date,Aanwezigheids Datum
 Attendance Details,Aanwezigheid Details
-Attendance From Date,Aanwezigheid Van Datum
-Attendance To Date,Aanwezigheid graag:
+Attendance From Date,Aanwezig vanaf:
+Attendance To Date,Aanwezigheid tot:
 Attendance can not be marked for future dates,Toeschouwers kunnen niet worden gemarkeerd voor toekomstige data
 Attendance for the employee: ,Opkomst voor de werknemer:
 Attendance record.,Aanwezigheid record.
 Attributions,Toeschrijvingen
 Authorization Control,Autorisatie controle
-Authorization Rule,Autorisatie Rule
+Authorization Rule,Autorisatie regel
 Auto Email Id,Auto E-mail Identiteitskaart
 Auto Inventory Accounting,Auto Inventory Accounting
 Auto Inventory Accounting Settings,Auto Inventory Accounting Instellingen
 Auto Material Request,Automatisch Materiaal Request
 Auto Name,Auto Naam
-Auto generated,Gegenereerd Auto
+Auto generated,Automatisch gegenereerd
 Auto-raise Material Request if quantity goes below re-order level in a warehouse,Auto-raise Materiaal aanvragen als kwantiteit gaat onder re-orde niveau in een magazijn
 Automatically updated via Stock Entry of type Manufacture/Repack,Automatisch geüpdate via Stock positie van het type Vervaardiging / Verpak
 Autoreply when a new mail is received,Autoreply wanneer er een nieuwe e-mail wordt ontvangen
-Available Qty at Warehouse,Qty bij Warehouse
-Available Stock for Packing Items,Beschikbaar voor Verpakking Items
-"Available in BOM, Delivery Note, Purchase Invoice, Production Order, Purchase Order, Purchase Receipt, Sales Invoice, Sales Order, Stock Entry, Timesheet","Verkrijgbaar in BOM, pakbon, de factuur, de Productieorder, Inkooporder, aankoopbon, Sales Invoice, Sales Order, Voorraad Entry, Timesheet"
+Available Qty at Warehouse,hoeveelheid in magazijn
+Available Stock for Packing Items,Beschikbaar voor verpakking
+"Available in BOM, Delivery Note, Purchase Invoice, Production Order, Purchase Order, Purchase Receipt, Sales Invoice, Sales Order, Stock Entry, Timesheet","Verkrijgbaar in materiaallijst, pakbon,factuur, Productieorder, Inkooporder, aankoopbon, verkoopfactuur, bestelling, ingave voorraad, Timesheet"
 Avatar,Avatar
 Average Discount,Gemiddelde korting
 B+,B +
 B-,B-
 BILL,BILL
 BILLJ,BILLJ
-BOM,BOM
-BOM Detail No,BOM Detail Geen
-BOM Explosion Item,BOM Explosie Item
-BOM Item,BOM Item
-BOM No,BOM Geen
-BOM No. for a Finished Good Item,BOM Nee voor een afgewerkte goed item
-BOM Operation,BOM Operatie
-BOM Operations,BOM Operations
-BOM Replace Tool,BOM Replace Tool
-BOM replaced,BOM vervangen
+BOM,onderdelenlijst
+BOM Detail No,onderdelenlijst detailnr
+BOM Explosion Item,onderdelenlijst Explosie Item
+BOM Item,onderdelenlijst artikel
+BOM No,onderdelenlijstnummer
+BOM No. for a Finished Good Item,onderdelenlijst nummer voor een afgewerkt goed
+BOM Operation,onderdelenlijst bewerking
+BOM Operations,onderdelenlijst bewerkingen
+BOM Replace Tool,vervang onderdelenlijst
+BOM replaced,onderdelenlijst vervangen
 Background Color,Achtergrondkleur
 Background Image,Achtergrondafbeelding
 Backup Manager,Backup Manager
-Backup Right Now,Back-up Right Now
+Backup Right Now,maak nu Back-up
 Backups will be uploaded to,Back-ups worden geüpload naar
 "Balances of Accounts of type ""Bank or Cash""",Saldi van de rekeningen van het type &#39;Bank of Cash &quot;
 Bank,Bank
 Bank A/C No.,Bank A / C Nee
 Bank Account,Bankrekening
-Bank Account No.,Bank Account Nr
-Bank Clearance Summary,Bank Ontruiming Samenvatting
+Bank Account No.,Bank rekening nr
+Bank Clearance Summary,Bank toelating Samenvatting
 Bank Name,Naam van de bank
 Bank Reconciliation,Bank Verzoening
 Bank Reconciliation Detail,Bank Verzoening Detail
@@ -379,36 +379,36 @@ Batch Finished Date,Batch Afgewerkt Datum
 Batch ID,Batch ID
 Batch No,Batch nr.
 Batch Started Date,Batch Gestart Datum
-Batch Time Logs for Billing.,Batch Time Logs voor Billing.
-Batch Time Logs for billing.,Batch Time Logs voor de facturering.
+Batch Time Logs for Billing.,Batch Time Logs voor facturatie.
+Batch Time Logs for billing.,Batch Time Logs voor facturatie.
 Batch-Wise Balance History,Batch-Wise Balance Geschiedenis
 Batched for Billing,Gebundeld voor facturering
 Be the first one to comment,Wees de eerste om te reageren
 Begin this page with a slideshow of images,Begin deze pagina met een diavoorstelling van foto&#39;s
 Better Prospects,Betere vooruitzichten
-Bill Date,Bill Datum
-Bill No,Bill Geen
+Bill Date,factuur Datum
+Bill No,factuurnummer
 Bill of Material to be considered for manufacturing,Bill of Material te worden beschouwd voor de productie van
-Bill of Materials,Bill of Materials
-Bill of Materials (BOM),Bill of Materials (BOM)
+Bill of Materials,onderdelenlijst
+Bill of Materials (BOM),onderdelenlijst (BOM)
 Billable,Factureerbare
 Billed,Gefactureerd
-Billed Amt,Billed Amt
-Billing,Billing
+Billed Amt,factuurbedrag
+Billing,Facturen
 Billing Address,Factuuradres
 Billing Address Name,Factuuradres Naam
-Billing Status,Billing Status
-Bills raised by Suppliers.,Rekeningen die door leveranciers.
-Bills raised to Customers.,Bills verhoogd tot klanten.
+Billing Status,Factuur Status
+Bills raised by Suppliers.,Inkomende facturen.
+Bills raised to Customers.,Uitgaande facturen.
 Bin,Bak
 Bio,Bio
 Bio will be displayed in blog section etc.,Bio wordt weergegeven in blog sectie enz.
 Birth Date,Geboortedatum
 Blob,Bobbel
-Block Date,Blokkeren Datum
-Block Days,Blokkeren Dagen
-Block Holidays on important days.,Blok Vakantie op belangrijke dagen.
-Block leave applications by department.,Blok verlaten toepassingen per afdeling.
+Block Date,Blokkeer Datum
+Block Days,Blokkeer Dagen
+Block Holidays on important days.,Blokkeer Vakantie op belangrijke dagen.
+Block leave applications by department.,Blokkeer verlofaanvragen per afdeling.
 Blog Category,Blog Categorie
 Blog Intro,Blog Intro
 Blog Introduction,Blog Inleiding
@@ -419,16 +419,16 @@ Blog Title,Blog Titel
 Blogger,Blogger
 Blood Group,Bloedgroep
 Bookmarks,Bladwijzers
-Branch,Tak
+Branch,Afdeling
 Brand,Merk
 Brand HTML,Brand HTML
 Brand Name,Merknaam
 "Brand is what appears on the top-right of the toolbar. If it is an image, make sure ithas a transparent background and use the &lt;img /&gt; tag. Keep size as 200px x 30px","Brand is wat er op de rechterbovenhoek van de werkbalk. Als het een afbeelding, zorg ervoor dat ithas een transparante achtergrond en gebruik de &lt;img /&gt; tag. Houd grootte als 200px x 30px"
-Brand master.,Brand meester.
+Brand master.,Hoofdmerk.
 Brands,Merken
-Breakdown,Storing
+Breakdown,opsplitsing
 Budget,Begroting
-Budget Allocated,Budget
+Budget Allocated,Toegewezen Budget
 Budget Control,Begrotingscontrole
 Budget Detail,Budget Detail
 Budget Details,Budget Details
@@ -437,7 +437,7 @@ Budget Distribution Detail,Budget Distributie Detail
 Budget Distribution Details,Budget Distributie Details
 Budget Variance Report,Budget Variantie Report
 Build Modules,Bouwen Modules
-Build Pages,Build Pages
+Build Pages,Build Pagina's
 Build Server API,Build Server API
 Build Sitemap,Bouwen Sitemap
 Bulk Email,Bulk Email
@@ -446,9 +446,9 @@ Bummer! There are more holidays than working days this month.,Bummer! Er zijn me
 Bundle items at time of sale.,Bundel artikelen op moment van verkoop.
 Button,Knop
 Buyer of Goods and Services.,Bij uw aankoop van goederen en diensten.
-Buying,Het kopen
-Buying Amount,Kopen Bedrag
-Buying Settings,Kopen Instellingen
+Buying,Aankopen
+Buying Amount,Bedrag aankopen
+Buying Settings,Instellingen aankopen
 By,Door
 C-FORM/,C-FORM /
 C-Form,C-Form
@@ -460,7 +460,7 @@ COMM-,COMM-
 CSS,CSS
 CUST,CUST
 CUSTMUM,CUSTMUM
-Calculate Based On,Bereken Based On
+Calculate Based On,Berekening gebaseerd op
 Calculate Total Score,Bereken Totaal Score
 Calendar,Kalender
 Calendar Events,Kalender Evenementen
@@ -495,8 +495,8 @@ Center,Centrum
 Change UOM for an Item.,Wijzig Verpakking voor een item.
 Change the starting / current sequence number of an existing series.,Wijzig de start-/ huidige volgnummer van een bestaande serie.
 Channel Partner,Channel Partner
-Charge,Lading
-Chargeable,Oplaadbare
+Charge,Kost
+Chargeable,Aanrekenbaar
 Chart of Accounts,Rekeningschema
 Chart of Cost Centers,Grafiek van Kostenplaatsen
 Chat,Praten
@@ -516,20 +516,20 @@ Check this to pull emails from your mailbox,Vink dit aan om e-mails uit je mailb
 Check to activate,Controleer activeren
 Check to make Shipping Address,Controleer Verzendadres maken
 Check to make primary address,Controleer primaire adres maken
-Checked,Geruit
+Checked,gecontroleerd
 Cheque,Cheque
 Cheque Date,Cheque Datum
 Cheque Number,Cheque nummer
 Child Tables are shown as a Grid in other DocTypes.,Onderliggende tabellen worden weergegeven als een tabel in andere DocTypes.
-City,City
+City,Stad
 City/Town,Stad / Plaats
-Claim Amount,Claim Bedrag
-Claims for company expense.,Claims voor rekening bedrijf.
+Claim Amount,onkosten Bedrag
+Claims for company expense.,onkostendeclaratie.
 Class / Percentage,Klasse / Percentage
 Classic,Klassiek
 Classification of Customers by region,Indeling van klanten per regio
 Clear Cache & Refresh,Clear Cache &amp; Vernieuwen
-Clear Table,Clear Tabel
+Clear Table,Wis Tabel
 Clearance Date,Clearance Datum
 "Click on ""Get Latest Updates""",Klik op &quot;Get Latest Updates&quot;
 Click on 'Make Sales Invoice' button to create a new Sales Invoice.,Klik op &#39;Sales Invoice&#39; knop om een ​​nieuwe verkoopfactuur maken.
@@ -545,7 +545,7 @@ CoA Help,CoA Help
 Code,Code
 Cold Calling,Cold Calling
 Color,Kleur
-Column Break,Column Break
+Column Break,kolom Break
 Comma separated list of email addresses,Komma&#39;s gescheiden lijst van e-mailadressen
 Comment,Commentaar
 Comment By,Reactie door
@@ -558,7 +558,7 @@ Comments,Reacties
 Commission Rate,Commissie Rate
 Commission Rate (%),Commissie Rate (%)
 Commission partners and targets,Partners van de Commissie en de doelstellingen
-Communication,Verbinding
+Communication,communicatie
 Communication HTML,Communicatie HTML
 Communication History,Communicatie Geschiedenis
 Communication Medium,Communicatie Medium
@@ -572,7 +572,7 @@ Company Introduction,Bedrijf Introductie
 Company Master.,Bedrijf Master.
 Company Name,Bedrijfsnaam
 Company Settings,Bedrijfsinstellingen
-Company branches.,Bedrijfstakken.
+Company branches.,Bedrijfsvestigingen.
 Company departments.,Bedrijfsafdelingen.
 Company is missing or entered incorrect value,Bedrijf ontbreekt of ingevoerde onjuiste waarde
 Company mismatch for Warehouse,Bedrijf mismatch voor Warehouse
@@ -588,10 +588,10 @@ Completion Status,Afronding Status
 Confirmed orders from Customers.,Bevestigde orders van klanten.
 Consider Tax or Charge for,Overweeg belasting of heffing voor
 "Consider this Price List for fetching rate. (only which have ""For Buying"" as checked)",Beschouw dit Prijslijst voor het ophalen van tarief. (Alleen die &quot;voor het kopen van&quot; als aangevinkt)
-Considered as Opening Balance,Beschouwd als Opening Balance
+Considered as Opening Balance,Beschouwd als openingssaldo
 Considered as an Opening Balance,Beschouwd als een openingsbalans
 Consultant,Consultant
-Consumed Qty,Consumed Aantal
+Consumed Qty,Verbruikt Aantal
 Contact,Contact
 Contact Control,Contact Controle
 Contact Desc,Contact Desc
@@ -1429,14 +1429,14 @@ Issue Details,Probleem Details
 Issued Items Against Production Order,Uitgegeven Artikelen Tegen productieorder
 It is needed to fetch Item Details.,Het is nodig om Item Details halen.
 It was raised because the (actual + ordered + indented - reserved) 						quantity reaches re-order level when the following record was created,Het werd opgeheven omdat de (werkelijke + besteld + ingesprongen - gereserveerd) hoeveelheid re-order niveau bereikt wanneer de volgende record is aangemaakt
-Item,Item
-Item Advanced,Item Geavanceerde
-Item Barcode,Item Barcode
-Item Batch Nos,Item Batch Nos
-Item Classification,Item Classificatie
+Item,Artikel
+Item Advanced,Artikel Geavanceerde
+Item Barcode,Artikel Barcode
+Item Batch Nos,Artikel Batch Nos
+Item Classification,Artikel Classificatie
 Item Code,Artikelcode
 Item Code (item_code) is mandatory because Item naming is not sequential.,Item Code (item_code) is verplicht omdat Item naamgeving is niet sequentieel.
-Item Customer Detail,Item Klant Detail
+Item Customer Detail,Artikel Klant Detail
 Item Description,Item Beschrijving
 Item Desription,Item desription
 Item Details,Item Details
@@ -1450,24 +1450,24 @@ Item Price,Item Prijs
 Item Prices,Item Prijzen
 Item Quality Inspection Parameter,Item Kwaliteitscontrole Parameter
 Item Reorder,Item opnieuw ordenen
-Item Serial No,Item Volgnr
-Item Serial Nos,Item serienummers
-Item Supplier,Item Leverancier
-Item Supplier Details,Item Product Detail
-Item Tax,Item Belasting
-Item Tax Amount,Item BTW-bedrag
-Item Tax Rate,Item Belastingtarief
-Item Tax1,Item belastingen1
-Item To Manufacture,Item te produceren
-Item UOM,Item Verpakking
-Item Website Specification,Item Website Specificatie
-Item Website Specifications,Item Website Specificaties
-Item Wise Tax Detail ,Item Wise Tax Detail
-Item classification.,Item classificatie.
-Item to be manufactured or repacked,Item te vervaardigen of herverpakt
-Item will be saved by this name in the data base.,Het punt zal worden opgeslagen met deze naam in de databank.
+Item Serial No,Artikel Volgnr
+Item Serial Nos,Artikel serienummers
+Item Supplier,Artikel Leverancier
+Item Supplier Details,Artikel Product Detail
+Item Tax,Artikel Belasting
+Item Tax Amount,Artikel BTW-bedrag
+Item Tax Rate,Artikel Belastingtarief
+Item Tax1,Artikel belastingen1
+Item To Manufacture,Artikel te produceren
+Item UOM,Artikel Verpakking
+Item Website Specification,Artikel Website Specificatie
+Item Website Specifications,Artikel Website Specificaties
+Item Wise Tax Detail ,Artikel belasting
+Item classification.,Artikel classificatie.
+Item to be manufactured or repacked,Artikel te vervaardigen of herverpakken
+Item will be saved by this name in the data base.,Artikel zal worden opgeslagen met deze naam in de databank.
 "Item, Warranty, AMC (Annual Maintenance Contract) details will be automatically fetched when Serial Number is selected.","Item, Garantie, zal AMC (jaarlijks onderhoudscontract) gegevens automatisch worden opgehaald wanneer Serienummer is geselecteerd."
-Item-Wise Price List,Item-Wise Prijslijst
+Item-Wise Price List,Artikel Prijslijst
 Item-wise Last Purchase Rate,Post-wise Last Purchase Rate
 Item-wise Purchase History,Post-wise Aankoop Geschiedenis
 Item-wise Purchase Register,Post-wise Aankoop Register
@@ -1476,7 +1476,7 @@ Item-wise Sales Register,Post-wise sales Registreren
 Items,Artikelen
 "Items to be requested which are ""Out of Stock"" considering all warehouses based on projected qty and minimum order qty",Items worden aangevraagd die &quot;Niet op voorraad&quot; rekening houdend met alle magazijnen op basis van verwachte aantal en minimale bestelling qty
 Items which do not exist in Item master can also be entered on customer's request,Items die niet bestaan ​​in punt master kan ook worden ingevoerd op verzoek van de klant
-Itemwise Discount,Itemwise Korting
+Itemwise Discount,Artikelgebaseerde Korting
 Itemwise Recommended Reorder Level,Itemwise Aanbevolen Reorder Niveau
 JSON,JSON
 JV,JV
@@ -1523,21 +1523,21 @@ Last Login,Laatst ingelogd
 Last Name,Achternaam
 Last Purchase Rate,Laatste Purchase Rate
 Lato,Lato
-Lead,Leiden
-Lead Details,Lood Details
-Lead Lost,Lood Verloren
-Lead Name,Lead Naam
-Lead Owner,Lood Owner
-Lead Source,Lood Bron
-Lead Status,Lead Status
-Lead Time Date,Lead Tijd Datum
-Lead Time Days,Lead Time Dagen
+Lead,Prospect
+Lead Details,Prospect Details
+Lead Lost,Prospect Verloren
+Lead Name,prospect Naam
+Lead Owner,prospect Owner
+Lead Source,prospect Bron
+Lead Status,prospect Status
+Lead Time Date,prospect Tijd Datum
+Lead Time Days,levertermijn Dagen
 Lead Time days is number of days by which this item is expected in your warehouse. This days is fetched in Material Request when you select this item.,Levertijd dagen is het aantal dagen waarmee dit artikel wordt verwacht in uw magazijn. Deze dag wordt opgehaald in Laden en aanvragen als u dit item.
-Lead Type,Lood Type
+Lead Type,prospect Type
 Leave Allocation,Laat Toewijzing
 Leave Allocation Tool,Laat Toewijzing Tool
 Leave Application,Verlofaanvraag
-Leave Approver,Laat Fiatteur
+Leave Approver,verlof goedkeurder
 Leave Approver can be one of,Vertrekken Fiatteur kan een van
 Leave Approvers,Verlaat Goedkeurders
 Leave Balance Before Application,Laat Balance Voor het aanbrengen
@@ -1636,11 +1636,11 @@ Manage exchange rates for currency conversion,Beheer wisselkoersen voor valuta-o
 Mandatory,Verplicht
 "Mandatory if Stock Item is ""Yes"". Also the default warehouse where reserved quantity is set from Sales Order.",Verplicht als Stock Item is &quot;ja&quot;. Ook de standaard opslagplaats waar de gereserveerde hoeveelheid is ingesteld van Sales Order.
 Manufacture against Sales Order,Vervaardiging tegen Verkooporder
-Manufacture/Repack,Fabricage / Verpak
+Manufacture/Repack,Fabricage / Verpakking
 Manufactured Qty,Gefabriceerd Aantal
 Manufactured quantity will be updated in this warehouse,Gefabriceerd hoeveelheid zal worden bijgewerkt in dit magazijn
 Manufacturer,Fabrikant
-Manufacturer Part Number,Partnummer fabrikant
+Manufacturer Part Number,onderdeelnummer fabrikant
 Manufacturing,Productie
 Manufacturing Quantity,Productie Aantal
 Margin,Marge
@@ -1648,10 +1648,10 @@ Marital Status,Burgerlijke staat
 Market Segment,Marktsegment
 Married,Getrouwd
 Mass Mailing,Mass Mailing
-Master,Meester
-Master Name,Master Naam
-Master Type,Meester Soort
-Masters,Masters
+Master,Hoofd
+Master Name,Hoofd Naam
+Master Type,Hoofd Soort
+Masters,Hoofden
 Match,Wedstrijd
 Match non-linked Invoices and Payments.,Match niet-gekoppelde facturen en betalingen.
 Material Issue,Materiaal Probleem
@@ -1662,8 +1662,8 @@ Material Request Detail No,Materiaal Aanvraag Detail Geen
 Material Request For Warehouse,Materiaal Request For Warehouse
 Material Request Item,Materiaal aanvragen Item
 Material Request Items,Materiaal aanvragen Items
-Material Request No,Materiaal aanvragen Geen
-Material Request Type,Materiaal Soort aanvraag
+Material Request No,Materiaal aanvraagnummer
+Material Request Type,Materiaalaanvraag Soort
 Material Request used to make this Stock Entry,Materiaal Request gebruikt om dit Stock Entry maken
 Material Requirement,Material Requirement
 Material Transfer,Materiaaloverdracht
@@ -1979,17 +1979,17 @@ Patch Log,Patch Inloggen
 Pay To / Recd From,Pay To / RECD Van
 Payables,Schulden
 Payables Group,Schulden Groep
-Payment Collection With Ageing,Betaling Collection Met Vergrijzing
+Payment Collection With Ageing,Betalingoverzicht met Ageing
 Payment Days,Betaling Dagen
-Payment Entries,Betaling Entries
+Payment Entries,Betaling ingaven
 Payment Entry has been modified after you pulled it. 			Please pull it again.,Betaling Bericht is gewijzigd nadat u trok het. Gelieve opnieuw te trekken.
-Payment Made With Ageing,Betaling Gemaakt Met Vergrijzing
+Payment Made With Ageing,Betaling Gemaakt Met Ageing
 Payment Reconciliation,Betaling Verzoening
 Payment Terms,Betalingscondities
-Payment to Invoice Matching Tool,Betaling aan Factuurvergelijk Tool
+Payment to Invoice Matching Tool,Betaling afpunten
 Payment to Invoice Matching Tool Detail,Betaling aan Factuurvergelijk Tool Detail
 Payments,Betalingen
-Payments Made,Betalingen Made
+Payments Made,gedane betalingen
 Payments Received,Betalingen ontvangen
 Payments made during the digest period,Betalingen in de loop van de digest periode
 Payments received during the digest period,Betalingen ontvangen tijdens de digest periode
@@ -2022,7 +2022,7 @@ Permissions at higher levels are 'Field Level' permissions. All Fields have a 'P
 "Permissions at level 0 are 'Document Level' permissions, i.e. they are primary for access to the document.","Rechten op niveau 0 zijn &#39;Document Level&#39; permissies, dat wil zeggen zij zijn primair voor toegang tot het document."
 Permissions translate to Users based on what Role they are assigned,Rechten vertalen naar gebruikers op basis van welke rol zij zijn toegewezen
 Person,Persoon
-Person To Be Contacted,De te contacteren persoon
+Person To Be Contacted,Te contacteren persoon
 Personal,Persoonlijk
 Personal Details,Persoonlijke Gegevens
 Personal Email,Persoonlijke e-mail
@@ -2083,7 +2083,7 @@ Please specify a Price List which is valid for Territory,Geef een prijslijst die
 Please specify a valid,Geef een geldige
 Please specify a valid 'From Case No.',Geef een geldige &#39;Van Case No&#39;
 Please specify currency in Company,Specificeer munt in Bedrijf
-Point of Sale,Point of Sale
+Point of Sale,verkoopspunt
 Point-of-Sale Setting,Point-of-Sale-instelling
 Post Graduate,Post Graduate
 Post Topic,Bericht Onderwerp
@@ -2092,7 +2092,7 @@ Posting Date,Plaatsingsdatum
 Posting Date Time cannot be before,Posting Datum Tijd kan niet voor
 Posting Time,Posting Time
 Posts,Berichten
-Potential Sales Deal,Potentiële Sales Deal
+Potential Sales Deal,Potentiële verkoop
 Potential opportunities for selling.,Potentiële mogelijkheden voor de verkoop.
 "Precision for Float fields (quantities, discounts, percentages etc). Floats will be rounded up to specified decimals. Default = 3","Precisie voor Float velden (hoeveelheden, kortingen, percentages, enz.). Praalwagens zal worden afgerond naar opgegeven decimalen. Default = 3"
 Preferred Billing Address,Voorkeur Factuuradres
@@ -2108,9 +2108,9 @@ Price List,Prijslijst
 Price List Currency,Prijslijst Valuta
 Price List Currency Conversion Rate,Prijslijst Currency Conversion Rate
 Price List Exchange Rate,Prijslijst Wisselkoers
-Price List Master,Prijslijst Master
+Price List Master,Hoofd Prijslijst
 Price List Name,Prijslijst Naam
-Price List Rate,Prijslijst Prijs
+Price List Rate,Prijslijst koers
 Price List Rate (Company Currency),Prijslijst Rate (Company Munt)
 Price List for Costing,Prijslijst voor Costing
 Price Lists and Rates,Prijslijsten en tarieven
@@ -2172,7 +2172,7 @@ Published On,Gepubliceerd op
 Pull Emails from the Inbox and attach them as Communication records (for known contacts).,Trek E-mails van het Postvak IN en bevestig ze als communicatie-records (voor bekende contacten).
 Pull Payment Entries,Trek Betaling Entries
 Pull sales orders (pending to deliver) based on the above criteria,Trek verkooporders (in afwachting van te leveren) op basis van de bovengenoemde criteria
-Purchase,Kopen
+Purchase,Aankoop
 Purchase Analytics,Aankoop Analytics
 Purchase Common,Aankoop Gemeenschappelijke
 Purchase Date,Aankoopdatum
@@ -2182,23 +2182,23 @@ Purchase Document No,Aankoop Document nr.
 Purchase Document Type,Koop Soort document
 Purchase In Transit,Aankoop In Transit
 Purchase Invoice,Aankoop Factuur
-Purchase Invoice Advance,Aankoop Factuur Advance
+Purchase Invoice Advance,Aankoop Factuur voorschot
 Purchase Invoice Advances,Aankoop Factuur Vooruitgang
-Purchase Invoice Item,Aankoop Factuur Item
+Purchase Invoice Item,Aankoop Factuur artikel
 Purchase Invoice Trends,Aankoop Factuur Trends
-Purchase Order,Purchase Order
+Purchase Order,Aankoop Order
 Purchase Order Date,Besteldatum
 Purchase Order Item,Aankoop Bestelling
-Purchase Order Item No,Purchase Order Item No
+Purchase Order Item No,Aankoop Order artikelnr
 Purchase Order Item Supplied,Aankoop Bestelling ingevoerd
-Purchase Order Items,Purchase Order Items
-Purchase Order Items Supplied,Purchase Order Items ingevoerd
-Purchase Order Items To Be Billed,Purchase Order Items te factureren
-Purchase Order Items To Be Received,Purchase Order Items te ontvangen
-Purchase Order Message,Purchase Order Bericht
-Purchase Order Required,Vereiste Purchase Order
-Purchase Order Trends,Purchase Order Trends
-Purchase Order sent by customer,Purchase Order verzonden door de klant
+Purchase Order Items,Aankoop Order artikelen
+Purchase Order Items Supplied,Purchase Order artikelen ingevoerd
+Purchase Order Items To Be Billed,Aankoop artikelen te factureren
+Purchase Order Items To Be Received,Aankoop artikelen te ontvangen
+Purchase Order Message,Aankoop Order Bericht
+Purchase Order Required,Aankoop Order verplicht
+Purchase Order Trends,Aankoop Order Trends
+Purchase Order sent by customer,Aankoop Order verzonden door de klant
 Purchase Orders given to Suppliers.,Inkooporders aan leveranciers.
 Purchase Receipt,Aankoopbewijs
 Purchase Receipt Item,Aankoopbewijs Item
@@ -2257,31 +2257,31 @@ Quotation Series,Offerte Series
 Quotation To,Offerte Voor
 Quotation Trend,Offerte Trend
 Quotations received from Suppliers.,Offertes ontvangen van leveranciers.
-Quotes to Leads or Customers.,Quotes om leads of klanten.
+Quotes to Leads or Customers.,Offertes aan prospecten of klanten.
 Raise Material Request when stock reaches re-order level,Raise Materiaal aanvragen bij voorraad strekt re-order niveau
-Raised By,Opgevoed door
-Raised By (Email),Verhoogde Door (E-mail)
-Random,Toeval
+Raised By,aangevraagd door
+Raised By (Email),aangevraagd door (E-mail)
+Random,random
 Range,Reeks
 Rate,Tarief
 Rate ,Tarief
 Rate (Company Currency),Rate (Company Munt)
 Rate Of Materials Based On,Prijs van materialen op basis
-Rate and Amount,Beoordeel en Bedrag
-Rate at which Customer Currency is converted to customer's base currency,Snelheid waarmee Klant Valuta wordt omgezet naar de basis van de klant munt
-Rate at which Price list currency is converted to company's base currency,Snelheid waarmee Prijslijst valuta wordt omgerekend naar de basis bedrijf munt
-Rate at which Price list currency is converted to customer's base currency,Snelheid waarmee Prijslijst valuta wordt omgerekend naar de basis van de klant munt
-Rate at which customer's currency is converted to company's base currency,Snelheid waarmee de klant valuta wordt omgerekend naar de basis bedrijf munt
-Rate at which supplier's currency is converted to company's base currency,Snelheid waarmee de leverancier valuta wordt omgerekend naar de basis bedrijf munt
-Rate at which this tax is applied,Snelheid waarmee deze belasting ingaat
+Rate and Amount,Koers en Bedrag
+Rate at which Customer Currency is converted to customer's base currency,Koers waarmee Klant Valuta wordt omgezet naar de basis van de klant munt
+Rate at which Price list currency is converted to company's base currency,Koers waarmee Prijslijst valuta wordt omgerekend naar de basis bedrijf munt
+Rate at which Price list currency is converted to customer's base currency,Koers waarmee Prijslijst valuta wordt omgerekend naar de basis van de klant munt
+Rate at which customer's currency is converted to company's base currency,Koers waarmee de klant valuta wordt omgerekend naar de basis bedrijf munt
+Rate at which supplier's currency is converted to company's base currency,Koers waarmee de leverancier valuta wordt omgerekend naar de basis bedrijf munt
+Rate at which this tax is applied,Koers waarmee deze belasting ingaat
 Raw Material Item Code,Grondstof Artikelcode
 Raw Materials Supplied,Grondstoffen Geleverd
 Raw Materials Supplied Cost,Grondstoffen ingevoerd Kosten
-Re-Order Level,Re-Order Level
-Re-Order Qty,Re-Order Aantal
-Re-order,Re-order
-Re-order Level,Re-order Level
-Re-order Qty,Re-order Aantal
+Re-Order Level,herbestelling niveau
+Re-Order Qty,-herbestelling Aantal
+Re-order,herbestelling
+Re-order Level,herbestelling niveau
+Re-order Qty,Rherbestelling Aantal
 Read,Lezen
 Read Only,Alleen lezen
 Reading 1,Reading 1
@@ -2307,8 +2307,8 @@ Received Items To Be Billed,Ontvangen items te factureren
 Received Qty,Ontvangen Aantal
 Received and Accepted,Ontvangen en geaccepteerd
 Receiver List,Ontvanger Lijst
-Receiver Parameter,Receiver Parameter
-Recipient,Recipiënt
+Receiver Parameter,Ontvanger Parameter
+Recipient,Ontvanger
 Recipients,Ontvangers
 Reconciliation Data,Reconciliatiegegevens
 Reconciliation HTML,Verzoening HTML
@@ -2458,46 +2458,46 @@ Salary breakup based on Earning and Deduction.,Salaris verbreken op basis Verdie
 Salary components.,Salaris componenten.
 Sales,Sales
 Sales Analytics,Sales Analytics
-Sales BOM,Verkoop BOM
-Sales BOM Help,Verkoop BOM Help
-Sales BOM Item,Verkoop BOM Item
+Sales BOM,Verkoop onderdelenlijst
+Sales BOM Help,Verkoop onderdelenlijst Help
+Sales BOM Item,Verkoop onderdelenlijst Item
 Sales BOM Items,Verkoop BOM Items
-Sales Common,Verkoop Gemeenschappelijke
+Sales Common,gemeenschappelijke verkoop
 Sales Details,Verkoop Details
-Sales Discounts,Sales kortingen
-Sales Email Settings,Sales E-mailinstellingen
-Sales Extras,Sales Extra&#39;s
-Sales Invoice,Sales Invoice
-Sales Invoice Advance,Sales Invoice Advance
-Sales Invoice Item,Sales Invoice Item
-Sales Invoice Items,Verkoopfactuur Items
-Sales Invoice Message,Sales Invoice Message
+Sales Discounts,verkoop kortingen
+Sales Email Settings,verkoop E-mailinstellingen
+Sales Extras,verkoop Extra&#39;s
+Sales Invoice,verkoopfactuur
+Sales Invoice Advance,verkoopfactuur voorschot
+Sales Invoice Item,verkoopfactuur artikel
+Sales Invoice Items,Verkoopfactuur artikelen
+Sales Invoice Message,verkoopfactuur bericht
 Sales Invoice No,Verkoop Factuur nr.
 Sales Invoice Trends,Verkoopfactuur Trends
 Sales Order,Verkooporder
 Sales Order Date,Verkooporder Datum
-Sales Order Item,Sales Order Item
-Sales Order Items,Sales Order Items
+Sales Order Item,verkoopfactuur Order Item
+Sales Order Items,Verkooporder artikel
 Sales Order Message,Verkooporder Bericht
-Sales Order No,Sales Order No
+Sales Order No,Verkooporder No
 Sales Order Required,Verkooporder Vereiste
-Sales Order Trend,Sales Order Trend
-Sales Partner,Sales Partner
-Sales Partner Name,Sales Partner Naam
-Sales Partner Target,Sales Partner Target
-Sales Partners Commission,Sales Partners Commissie
-Sales Person,Sales Person
-Sales Person Incharge,Sales Person Incharge
-Sales Person Name,Sales Person Name
+Sales Order Trend,Verkooporder Trend
+Sales Partner,Verkoopspartner
+Sales Partner Name,Verkoopspartner Naam
+Sales Partner Target,Verkoopspartner Target
+Sales Partners Commission,Verkoopspartner Commissie
+Sales Person,Verkoper
+Sales Person Incharge,Verantwoordelijke verkoper
+Sales Person Name,Naam verkoper
 Sales Person Target Variance (Item Group-Wise),Sales Person Target Variance (Post Group-Wise)
-Sales Person Targets,Sales Person Doelen
-Sales Person-wise Transaction Summary,Sales Person-wise Overzicht opdrachten
+Sales Person Targets,Streefdoelen verkoper
+Sales Person-wise Transaction Summary,Verkoopsoverzicht per verkoper
 Sales Register,Sales Registreer
-Sales Return,Verkoop Terug
+Sales Return,Verkoop terugname
 Sales Taxes and Charges,Verkoop en-heffingen
 Sales Taxes and Charges Master,Verkoop en-heffingen Master
-Sales Team,Sales Team
-Sales Team Details,Sales Team Details
+Sales Team,Verkoopsteam
+Sales Team Details,erkoopsteam Details
 Sales Team1,Verkoop Team1
 Sales and Purchase,Verkoop en Inkoop
 Sales campaigns,Verkoopcampagnes
@@ -2580,8 +2580,8 @@ Select who you want to send this newsletter to,Selecteer de personen die u wilt 
 "Selecting ""Yes"" will allow you to create Bill of Material showing raw material and operational costs incurred to manufacture this item.",&quot;Ja&quot; zal u toelaten om Bill of Material tonen grondstof-en operationele kosten om dit item te produceren maken.
 "Selecting ""Yes"" will allow you to make a Production Order for this item.",&quot;Ja&quot; zal u toelaten om een ​​productieorder voor dit item te maken.
 "Selecting ""Yes"" will give a unique identity to each entity of this item which can be viewed in the Serial No master.",&quot;Ja&quot; geeft een unieke identiteit voor elke entiteit van dit artikel die kunnen worden bekeken in de Serial No meester.
-Selling,Selling
-Selling Settings,Selling Instellingen
+Selling,Verkoop
+Selling Settings,verkoopsinstellingen
 Send,Sturen
 Send Autoreply,Stuur Autoreply
 Send Email,E-mail verzenden
@@ -3332,7 +3332,7 @@ fire,brand
 flag,vlag
 folder-close,map-close
 folder-open,map te openen
-font,doopvont
+font,dlettertype
 forward,vooruit
 français,français
 fullscreen,volledig scherm
@@ -3343,7 +3343,7 @@ hand-down,de hand-down
 hand-left,hand-links
 hand-right,hand-rechts
 hand-up,hand-up
-has been entered atleast twice,is ingevoerd minstens twee keer
+has been entered atleast twice,is minstens twee keer ingegeven
 have a common territory,hebben een gemeenschappelijk grondgebied
 have the same Barcode,hebben dezelfde streepjescode
 hdd,hdd
@@ -3358,7 +3358,7 @@ indent-right,streepje-rechts
 info-sign,info-teken
 is a cancelled Item,is een geannuleerde artikel
 is linked in,is gekoppeld
-is not a Stock Item,is niet een Stock Item
+is not a Stock Item,geen stock Item
 is not allowed.,is niet toegestaan.
 italic,cursief
 leaf,blad
@@ -3377,9 +3377,9 @@ move,bewegen
 music,muziek
 must be one of,moet een van
 nederlands,nederlands
-not a purchase item,niet een aankoop punt
-not a sales item,geen verkoop punt
-not a service item.,niet een service-item.
+not a purchase item,geen aankoopartikel
+not a sales item,geen verkoopartikel
+not a service item.,niet een service-artikel
 not a sub-contracted item.,niet een uitbesteed artikel.
 not in,niet in
 not within Fiscal Year,niet binnen boekjaar
@@ -3399,7 +3399,7 @@ play,spelen
 play-circle,play-cirkel
 plus,plus
 plus-sign,plus-teken
-português,português
+português,portugees
 português brasileiro,português brasileiro
 print,afdrukken
 qrcode,qrcode
@@ -3422,12 +3422,12 @@ screenshot,screenshot
 search,zoeken
 share,aandeel
 share-alt,aandeel-alt
-shopping-cart,shopping-cart
+shopping-cart,winkelmandje
 should be 100%,moet 100% zijn
 signal,signaal
 star,ster
 star-empty,star-leeg
-step-backward,step-achteruit
+step-backward,stap-achteruit
 step-forward,stap vooruit
 stop,stoppen
 tag,label
@@ -3451,9 +3451,9 @@ user,gebruiker
 user_image_show,user_image_show
 values and dates,waarden en data
 volume-down,volume-omlaag
-volume-off,volume-off
-volume-up,volume-up
-warning-sign,waarschuwing-teken
+volume-off,volume-uit
+volume-up,volume-omhoog
+warning-sign,waarschuwingsteken
 website page link,website Paginalink
 which is greater than sales order qty ,die groter is dan de verkoop aantallen bestellen
 wrench,moersleutel
